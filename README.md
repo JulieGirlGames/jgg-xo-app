@@ -1,4 +1,11 @@
-# JggXoApp
+# jgg-XO-app
+
+Starter App for **Tic Tac Toe** style game 
+--- based on [Fireship.io](https://fireship.io) course on Angular 8
+
+----------
+
+## Details
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
 
