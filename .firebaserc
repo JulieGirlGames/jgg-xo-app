@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cogentxapp": {
+      "hosting": {
+        "jgg-xo-app": [
+          "cogentxapp"
+        ]
+      }
+    }
+  }
+}

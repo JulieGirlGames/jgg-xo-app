@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "jgg-xo-app",
+      "public": "dist/jgg-xo-app",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
